@@ -48,3 +48,19 @@ The dashboards were created to provide interactive visualizations of the key KPI
 
 4.SQL Queries: Used to extract insights from the dataset for visualization.
 
+https://github.com/Jaseela-Thayyil/Bank-Loan-Analytics-Dashboard/blob/main/bank%20loan.sql
+
+# Insights
+
+Loan Performance Trends: Yearly trends indicate shifts in loan issuance and repayments across different states and loan grades.
+
+Verified vs Non-Verified Loans: Verified loans generally have higher payment completion rates compared to non-verified ones.
+
+Home Ownership Influence: Home ownership plays a significant role in loan repayment, particularly on the last payment date.
+
+State-wise Loan Insights: Certain states have higher loan defaults, which may correlate with other factors such as economic conditions or borrower characteristics.
+
+# Final Conclusion
+
+The analysis provided a comprehensive view of bank loan data, revealing patterns in loan performance, verification status, and customer behavior. Through interactive dashboards and data manipulation, we were able to draw actionable insights that can help financial institutions assess risk, improve loan approval processes, and optimize repayment strategies.
+
