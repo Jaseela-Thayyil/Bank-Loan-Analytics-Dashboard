@@ -51,8 +51,35 @@ The following KPIs were developed to analyze loan data:
      Applied filters and slicers to allow users to dynamically explore data by loan status, state, verification status, etc.
 
      Dashboard Layout: Organized visuals into a cohesive, interactive dashboard, allowing stakeholders to drill down into loan performance metrics at a detailed level.
+3. Tableau Dashboard
 
-    
+     Data Import: Imported the Excel file into Tableau using the Connect to Data feature.
+
+     Data Cleaning and Prep: Performed basic data cleaning directly within Tableau, including renaming fields, merging datasets, and creating calculated fields for KPIs 
+     like Total Payments and Revol Balance.
+
+     Creating Visuals:
+
+     Created visualizations such as  bar charts, and line charts to represent key insights, like Grade-wise Revol Balance and State-wise Loan Status.
+
+     Developed calculated fields to derive additional insights from the data, such as calculating the loan application count and total funded amounts.
+
+
+     Dashboard Creation: Combined these visuals into a dashboard and arranged them in a clean, interactive layout, adding filters for dynamic analysis by different KPIs 
+     such as loan verification status and home ownership.
+   
+5. SQL for Data Extraction
+
+     Data Preparation: Wrote SQL queries to extract relevant insights from the raw data, such as:
+      Loan status by year,
+Revolving balance by grade and sub-grade,
+Total payment for verified and non-verified loans,
+Loan status by state and month,
+
+
+     Data Export: Exported the cleaned and transformed data from SQL queries into CSV/Excel files for use in Excel, Power BI, and Tableau dashboards.
+
+     SQL was used primarily for preparing clean datasets and calculating some advanced metrics before visualizing them in other tools.    
    
 
 #   Dashboards
