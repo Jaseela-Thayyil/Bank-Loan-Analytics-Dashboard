@@ -1,2 +1,4 @@
 # Bank-Loan-Analytics-Dashboard
-This project involves the creation of a comprehensive Bank-Loan-Analytic-Dashboard using Tableau, Excel , SQL and Power Bi , developed during my internship. The primary objective of the project was to analyze key factors influencing  loan performance and provide insights through data visualization for decision-making .
+# Project Objective
+The main objective of this project is to analyze customer bank loans and extract insights that can assist in financial decision-making. The analysis focuses on key metrics such as loan performance, customer behavior, and payment status. Dashboards were created using Excel, Tableau, Power BI, and SQL to visualize the results.
+# Dataset Used
