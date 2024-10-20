@@ -67,7 +67,7 @@ The following KPIs were developed to analyze loan data:
 
      Dashboard Creation: Combined these visuals into a dashboard and arranged them in a clean, interactive layout, adding filters for dynamic analysis by different KPIs 
      such as loan verification status and home ownership.
-   
+<a href="https://github.com/Jaseela-Thayyil/Bank-Loan-Analytics-Dashboard/blob/main/Bank%20Tableau%20Dashboard%20(1).twbx"> View-Dashboard</a>  
 5. SQL for Data Extraction
 
      Data Preparation: Wrote SQL queries to extract relevant insights from the raw data, such as:
