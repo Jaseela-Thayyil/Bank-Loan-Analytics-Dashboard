@@ -80,7 +80,7 @@ Loan status by state and month,
      Data Export: Exported the cleaned and transformed data from SQL queries into CSV/Excel files for use in Excel, Power BI, and Tableau dashboards.
 
      SQL was used primarily for preparing clean datasets and calculating some advanced metrics before visualizing them in other tools.    
-   
+<a href="https://github.com/Jaseela-Thayyil/Bank-Loan-Analytics-Dashboard/blob/main/bank%20loan.sql">View-Dashboard</a>
 
 #   Dashboards
 The dashboards were created to provide interactive visualizations of the key KPIs:
