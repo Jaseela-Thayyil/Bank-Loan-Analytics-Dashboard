@@ -51,7 +51,7 @@ The following KPIs were developed to analyze loan data:
      Applied filters and slicers to allow users to dynamically explore data by loan status, state, verification status, etc.
 
      Dashboard Layout: Organized visuals into a cohesive, interactive dashboard, allowing stakeholders to drill down into loan performance metrics at a detailed level. <a href="https://github.com/Jaseela-Thayyil/Bank-Loan-Analytics-Dashboard/blob/main/bank%20loan%20analysis%20power%20bi.pbix">View-Dashboard<a/>
-4. Tableau Dashboard
+3. Tableau Dashboard
 
      Data Import: Imported the Excel file into Tableau using the Connect to Data feature.
 
