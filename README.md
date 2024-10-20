@@ -22,40 +22,36 @@ The following KPIs were developed to analyze loan data:
 # Process
 1. Excel Dashboard
 
-Data Cleaning: Imported the dataset into Excel ,merged and performed initial data cleaning, such as removing duplicates, handling missing values, and formatting columns for easier analysis.
-
-Pivot Tables and Charts:
-
-Created Pivot Tables to summarize key metrics such as loan amount by year, grade-wise revol balance, and total payments for verified vs non-verified loans.
-
-Generated visual charts (bar charts, line charts, and pie charts) to represent the data visually.
-
-
-Cards/Widgets:
-
-Used simple formulas (SUM, COUNT, AVERAGE) to calculate KPIs like Total Loan Amount, Total Loan Applications, Total Funded Amount, Interest Rate, and DTI (Debt-to-Income Ratio).
-
-These were displayed as cards on the dashboard for quick reference.
-
-
-Dashboard Creation: Combined the Pivot Tables and visual charts into a single Excel sheet, creating a well-organized and interactive dashboard to summarize key insights.
+     Data Cleaning: Imported the dataset into Excel ,merged and performed initial data cleaning, such as removing duplicates, handling missing values, and formatting column 
+     for easier analysis.
+ 
+     Pivot Tables and Charts:
+     Created Pivot Tables to summarize key metrics such as loan amount by year, grade-wise revol balance, and total payments for verified vs non-verified loans.
+     Generated visual charts (bar charts, line charts, and pie charts) to represent the data visually. 
+ 
+     Cards/Widgets:
+     Used simple formulas (SUM, COUNT, AVERAGE) to calculate KPIs like Total Loan Amount, Total Loan Applications, Total Funded Amount, Interest Rate, and DTI (Debt-to- 
+     Income Ratio).
+ These were displayed as cards on the dashboard for quick reference.
+ 
+     Dashboard Creation: Combined the Pivot Tables and visual charts into a single Excel sheet, creating a well-organized and interactive dashboard to summarize key insights.
+ 
 2. Power BI Dashboard
 
-Data Loading: Loaded the Excel dataset into Power BI using the Get Data option.
+     Data Loading: Loaded the Excel dataset into Power BI using the Get Data option.
+ 
+     Data Transformation: Used Power Query to perform data transformations such as splitting columns, merging tables, and cleaning data before loading it into the data model.
 
-Data Transformation: Used Power Query to perform data transformations such as splitting columns, merging tables, and cleaning data before loading it into the data model.
+     Modeling: Established relationships between tables to create an optimized data model. This enabled the calculation of various KPIs.
 
-Modeling: Established relationships between tables to create an optimized data model. This enabled the calculation of various KPIs.
+     Creating Visuals:
+     Developed interactive visuals like bar charts, line charts, and map charts to represent KPIs such as Year-wise Loan Status, State-wise Loan Status, and Home Ownership 
+     vs Payment Date.
+ 
+     Applied filters and slicers to allow users to dynamically explore data by loan status, state, verification status, etc.
 
-Creating Visuals:
-
-Developed interactive visuals like bar charts, line charts, and map charts to represent KPIs such as Year-wise Loan Status, State-wise Loan Status, and Home Ownership vs Payment Date.
-
-Applied filters and slicers to allow users to dynamically explore data by loan status, state, verification status, etc.
-
-
-Dashboard Layout: Organized visuals into a cohesive, interactive dashboard, allowing stakeholders to drill down into loan performance metrics at a detailed level.
-
+     Dashboard Layout: Organized visuals into a cohesive, interactive dashboard, allowing stakeholders to drill down into loan performance metrics at a detailed level.
+     
 
 #   Dashboards
 The dashboards were created to provide interactive visualizations of the key KPIs:
