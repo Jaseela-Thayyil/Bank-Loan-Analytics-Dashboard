@@ -51,7 +51,9 @@ The following KPIs were developed to analyze loan data:
      Applied filters and slicers to allow users to dynamically explore data by loan status, state, verification status, etc.
 
      Dashboard Layout: Organized visuals into a cohesive, interactive dashboard, allowing stakeholders to drill down into loan performance metrics at a detailed level.
-     
+
+    
+   
 
 #   Dashboards
 The dashboards were created to provide interactive visualizations of the key KPIs:
